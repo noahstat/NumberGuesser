@@ -1,2 +1,2 @@
-# NumerGuesser
+# NumberGuesser
 Simple Number guesser project
